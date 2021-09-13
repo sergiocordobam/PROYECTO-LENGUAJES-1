@@ -1,0 +1,10 @@
+program
+    def main ( )
+        int a
+        int b
+        if ( ( a ) :: ( b ))
+            print a
+            read b
+        endif
+    enddef
+endprogram

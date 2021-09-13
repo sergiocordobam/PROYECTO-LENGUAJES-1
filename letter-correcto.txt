@@ -1,0 +1,6 @@
+program
+    def main ( )
+        int s
+        s : 0
+    enddef
+endprogram

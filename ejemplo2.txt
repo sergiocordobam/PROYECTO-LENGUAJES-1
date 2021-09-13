@@ -1,0 +1,7 @@
+program
+	def main ( )
+		if ( a :: b )
+			print Arbol3
+		endif
+	enddef
+endprogram

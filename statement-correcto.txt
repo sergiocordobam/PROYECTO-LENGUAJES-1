@@ -1,0 +1,20 @@
+program
+    def main ( )
+        int a
+        int b
+        int c
+        read a 
+        print b
+        call sumar ( a b )
+        a : 3
+        b : 7
+        if ( a :: b )
+            read b 
+        endif
+        else
+            print a
+        while ( c !: 10 )
+            read c
+        endwhile
+    enddef
+endprogram

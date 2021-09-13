@@ -1,0 +1,8 @@
+program
+    def main ( int a int b )
+        int c
+        a : 6
+        b : 3
+        c : b ++ a
+    enddef
+endprogram

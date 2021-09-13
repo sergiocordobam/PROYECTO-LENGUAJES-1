@@ -1,0 +1,7 @@
+program
+    def main ( int a int b  )
+        while ( a !: b )
+            read a 
+            print b
+    enddef
+endprogram

@@ -1,0 +1,6 @@
+program
+    def main ( )
+        int a 
+        a : 5d
+    enddef
+endprogram

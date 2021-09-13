@@ -1,0 +1,19 @@
+program
+	def main ( )
+		int i  
+		int acum
+		int j
+		i : 1
+		acum : 0
+		j : 0
+
+		if ( i :: 10 )
+			while ( j !: 1 )
+				acum : acum + j * ( i + 1 )
+			endwhile
+		endif
+		else
+			acum : 1
+		print acum 
+	enddef
+endprogram

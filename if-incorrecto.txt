@@ -1,0 +1,9 @@
+program
+    def main ( int a int b  )
+        if ( a :: b )
+            read a 
+        else
+            print b
+        endif
+    enddef
+endprogram

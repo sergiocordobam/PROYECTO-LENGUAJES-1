@@ -1,0 +1,8 @@
+program
+    def main ( )
+        int c
+        int d
+        int e
+        e : c ** d  
+    enddef
+endprogram

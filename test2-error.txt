@@ -1,0 +1,9 @@
+program
+	def main ( int a int b )
+		int c
+	enddef
+	
+	def sumar ( int x int y)
+		int z
+	enddef
+endprogram

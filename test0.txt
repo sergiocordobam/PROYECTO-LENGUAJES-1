@@ -1,0 +1,4 @@
+program
+	def main ( )
+	enddef
+endprogram

@@ -1,0 +1,7 @@
+program
+    def main ( )
+        int a
+        int b
+        read ( b )
+    enddef
+endprogram
