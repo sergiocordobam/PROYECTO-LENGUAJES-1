@@ -1,0 +1,10 @@
+program
+	def main ( )
+        c : a + b 
+        d : 2
+        int a 
+        int b
+        int c
+        int d 
+	enddef
+endprogram
