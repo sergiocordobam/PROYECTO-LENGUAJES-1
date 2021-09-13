@@ -1,8 +1,10 @@
 program
 	def main ( )
+		int scanner
 		int i  
 		int acum
 		int j
+		scanner : i
 		i : 1
 		acum : 0
 		j : 0
